@@ -1,6 +1,6 @@
-use crate::problems::reverse_prefix::reverse_prefix;
+use problems::*;
 
-mod problems;
+pub mod problems;
 
 fn main() {
     println!("{}", reverse_prefix(String::from("abcdefd"), 'd'));
