@@ -3,5 +3,5 @@ use problems::*;
 pub mod problems;
 
 fn main() {
-    println!("{}", reverse_prefix(String::from("abcdefd"), 'd'));
+    println!("{}", num_rescue_boats(vec![2, 4], 5));
 }
