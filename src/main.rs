@@ -3,5 +3,5 @@ use problems::*;
 pub mod problems;
 
 fn main() {
-    println!("{}", num_rescue_boats(vec![2, 4], 5));
+    println!("{:?}", kth_smallest_prime_fraction(vec![1, 2, 3, 5], 3));
 }
