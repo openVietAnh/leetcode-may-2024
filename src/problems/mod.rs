@@ -1,6 +1,7 @@
 pub use compare_version::*;
 pub use find_max_k::*;
 pub use find_relative_ranks::*;
+pub use get_maximum_gold::*;
 pub use kth_smallest_prime_fraction::*;
 pub use largest_local::*;
 pub use maximum_happiness_sum::*;
@@ -11,6 +12,7 @@ pub use reverse_prefix::*;
 pub mod compare_version;
 pub mod find_max_k;
 pub mod find_relative_ranks;
+pub mod get_maximum_gold;
 pub mod kth_smallest_prime_fraction;
 pub mod largest_local;
 pub mod maximum_happiness_sum;
