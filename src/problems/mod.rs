@@ -8,6 +8,7 @@ pub use max_score_words::*;
 pub use maximum_happiness_sum::*;
 pub use mincost_to_hire_workers::*;
 pub use num_rescue_boats::*;
+pub use num_steps::*;
 pub use reverse_prefix::*;
 
 pub mod compare_version;
@@ -20,4 +21,5 @@ pub mod max_score_words;
 pub mod maximum_happiness_sum;
 pub mod mincost_to_hire_workers;
 pub mod num_rescue_boats;
+pub mod num_steps;
 pub mod reverse_prefix;
