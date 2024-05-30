@@ -1,4 +1,5 @@
 pub use compare_version::*;
+pub use count_triplets::*;
 pub use find_max_k::*;
 pub use find_relative_ranks::*;
 pub use get_maximum_gold::*;
@@ -12,6 +13,7 @@ pub use num_steps::*;
 pub use reverse_prefix::*;
 
 pub mod compare_version;
+pub mod count_triplets;
 pub mod find_max_k;
 pub mod find_relative_ranks;
 pub mod get_maximum_gold;
